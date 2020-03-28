@@ -1,0 +1,13 @@
+Cuenta Google:
+
+user    -> recetasabuoficial@gmail.com
+pass    -> abuelita1234
+
+Cuenta Twitter:
+
+url     -> https://twitter.com/OficialAbu
+user    -> Recetas Abu Oficial
+pass    -> abuelita1234
+
+
+
