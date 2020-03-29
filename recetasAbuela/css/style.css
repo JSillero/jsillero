@@ -129,6 +129,26 @@ dd::before {
     margin-right: 5px;
 }
 
+.comida {
+    display: grid;
+    grid-template-areas: 
+    "img" "tags"
+    "img" "ingredients";
+    grid-template-columns: 350px 350px;
+    grid-template-rows: 100px auto;
+}
+
+img {
+    grid-area: img;
+}
+.tags {
+    grid-area: tags;
+    
+}
+
+.ingredients {
+    grid-area: ingredients;
+}
 /*
 .menu {
     display: grid;
